@@ -5,7 +5,7 @@ Users show the highest engagement with "Animals" and "Science" content, while "H
 
 ![dashboard-preview.gif](dashboard/screenshots/dashboard-preview.gif)
 
-**Interactive Dashboard:** [View on Tableau Public]([PLACEHOLDER_TABLEAU_PAGE_LINK])
+**Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/shared/6CC473ZQY?:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -55,15 +55,7 @@ Our task: **Identify the top 5 most engaging content categories** and provide bu
 
 ---
 
-## How to Reproduce
-```bash
-# Clone the repository
-git clone [PLACEHOLDER_GITHUB_REPO_LINK]
-cd social-buzz-top5-content
-
-# Create and activate environment
-conda env create -f environment.yml
-conda activate social-buzz
-
-# Run analysis
-jupyter lab
+## How to View This Project
+1. View the interactive Tableau dashboard here: [Tableau Public Link](https://public.tableau.com/shared/6CC473ZQY?:display_count=n&:origin=viz_share_link)
+2. Download the PDF analysis report from the `/reports` folder.
+3. Explore the screenshots in the `/dashboard/screenshots` folder for a quick visual summary.
